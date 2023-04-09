@@ -40,7 +40,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+1 587 574 0000,
 		info@odysseycloud.com
 		<br>
-		<a href="mailto:info@acadalearning">Mail to Acada Learning</a>
+		<a href="mailto:info@odysseycloud">Mail to Acada Learning</a>
 	</span>
 </div>
 <hr>
